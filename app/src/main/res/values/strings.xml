@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title_text">BMI Calculator</string>
+    <string name="weight_counter_txt">50</string>
+    <string name="age_counter_txt">25</string>
+    <string name="weight_title_txt">Weight (kg)</string>
+    <string name="age_title_txt">Age</string>
+    <string name="height_title_txt">5 feet 4 inches </string>
+    <string name="button_text">Calculate</string>
+    <string name="button2_text">Calculate Again</string>
+    <string name="ft">ft</string>
+    <string name="in">in</string>
+    <string name="height">Height</string>
+    <string name="YourBmiText">Your BMI</string>
+    <string name="bmiValue">20.5</string>
+    <string name="bmiTips">You are underweight So you may need to put on some weight.</string>
+    <string-array name="tips_array">
+        <item>You are severely underweight. It is a sign that you\'re not eating enough or you may be ill.</item>
+        <item>You are underweight So you may need to put on some weight. </item>
+        <item>You are at a healthy weight for your height. You lower your risk of developing serious health problems.</item>
+        <item>You are slightly overweight. You may be advised to lose some weight for health reasons.</item>
+        <item>You are heavily overweight. Your health may be at risk if you do not lose weight.</item>
+    </string-array>
+</resources>
